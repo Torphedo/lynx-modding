@@ -1,6 +1,6 @@
 
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">LYNX MODDING</h3>
 
   <p align="center">
     A repository for all currently known mods for Hardspace Shipbreakrer!

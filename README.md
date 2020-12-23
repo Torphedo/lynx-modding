@@ -14,39 +14,21 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+Recently, the modding community kicked off in Hardspace Shipbreaker, with a bunch of passionate individuals and hopefully more in the future we are happy to present to you mods you can easily use.
+
+These mods have been reviewed as such to not affect RACE competitively what so ever!
+
+Enjoy :)
 
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+WARNING - USE MODS AT YOUR OWN RISK
 
-### Prerequisites
-
-
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
-   ```
+All mods unless specified otherwise are simple drag and replace. 
+This means it will only work for each update to the game, any new updates you MUST redo the installation process until a mod manager is made.
 
 
 <!-- CONTRIBUTING -->

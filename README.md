@@ -29,7 +29,12 @@ WARNING - USE MODS AT YOUR OWN RISK
 
 All mods unless specified otherwise are simple drag and replace. 
 This means it will only work for each update to the game, any new updates you MUST redo the installation process until a mod manager is made.
+IF A MOD BREAKS THE GAME, REPORT IT IN THE MODDING DISCUSSION. PING Aeneas#8618 OR Törphedo
+#0042
 
+IF THE MOD DOES INDEED BREAK THE GAME, FOLLOW THE FIX OUTLINED BELOW:
+
+Delete all files you have modded, then verify game cache using steam
 
 <!-- CONTRIBUTING -->
 ## Contributing
